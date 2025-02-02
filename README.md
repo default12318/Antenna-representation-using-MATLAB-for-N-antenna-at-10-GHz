@@ -1,4 +1,4 @@
-# Antenna-representation-using-MATLAB-for-N-antenna-at-10-GHz
+# Antenna-Array-factor-representation-using-MATLAB-for-N-antenna-at-10-GHz
 
 -Number of antennas = N (variable)
 - Desired angle of arrival = 30ο (measured from a line perpendicular to the array)
